@@ -1,0 +1,4 @@
+.metals
+.vscode
+.env
+node_modules
